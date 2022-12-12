@@ -1,0 +1,10 @@
+h3 {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+    border: double;
+}
+
+.links {
+    text-align: center;
+}
